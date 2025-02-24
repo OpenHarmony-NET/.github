@@ -1,3 +1,5 @@
+![OpenHarmony-NET](https://github.com/user-attachments/assets/6b824a7c-bc56-4aec-945a-570e5c50a310)
+
 中文 | [English](https://github.com/OpenHarmony-NET/.github/blob/main/profile/README_EN.md)
 
 ### 👋 欢迎访问OpenHarmony.NET组织
