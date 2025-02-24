@@ -4,3 +4,7 @@
 
 本组织创建的目标是将.NET以及客户端生态带到OpenHarmony(包括HarmonyOS Next)系统上。
 
+
+### 💬 交流和讨论
+
+如果有任何疑问和建议，请移步至[Discussions](https://github.com/orgs/OpenHarmony-NET/discussions)
