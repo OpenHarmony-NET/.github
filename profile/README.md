@@ -6,6 +6,8 @@
 
 本组织创建的目标是将.NET以及客户端生态带到OpenHarmony(包括HarmonyOS Next)系统上。
 
+### 🕹️ 项目状态
+目前支持使用.NET为OpenHarmony系统开发原生二进制库(.so), 使用方式参考: [https://github.com/OpenHarmony-NET/PublishAotCross](https://github.com/OpenHarmony-NET/PublishAotCross)
 
 ### 💬 交流和讨论
 
