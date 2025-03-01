@@ -1,6 +1,6 @@
 ![OpenHarmony-NET](../assets/Header.png)
 
-中文 | [English](./README_EN.md)
+简体中文 | [English](./README_EN.md)
 
 ### 👋 欢迎访问OpenHarmony.NET组织
 
