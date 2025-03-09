@@ -12,7 +12,7 @@ The goal of this organization is to bring **.NET and client ecology** to the **O
 NativeAOT has been adapted for HarmonyOS. Currently, it supports the development of native binary libraries (.so) for the OpenHarmony. For usage instructions, please refer to: https://github.com/OpenHarmony-NET/OpenHarmony.NET.Runtime
 
 2. Avalonia
-The page can be rendered, but GPU rendering is not supported yet. Code repository: https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia
+The page can be rendered. Code repository: https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia
 
 4. Blazor.Hybrid
 The adaptation is complete. Feel free to experience it. Code repository: https://github.com/OpenHarmony-NET/OpenHarmony.Blazor.Hybrid
