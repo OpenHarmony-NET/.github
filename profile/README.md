@@ -2,24 +2,20 @@
 
 简体中文 | [English](./README_EN.md)
 
-### 👋 欢迎访问OpenHarmony.NET组织
+大家好，我是布布。
+跟大家宣布个消息，鸿蒙上的Avalonia和.NET项目正式停止更新并归档。
 
-本组织创建的目标是将.NET以及客户端生态带到OpenHarmony(包括HarmonyOS Next)系统上。
+其实项目早在去年7月份就没有公开发布更新，当时是因为Avalonia和华为在谈合作，而Avalonia承诺合作达成后全职或者兼职雇佣我来继续适配鸿蒙，为了我自己和avalonia的利益，除了利益外还需要跟Avalonia技术负责人确认后面的技术细节和开发规范，所以减缓了Avalonia适配鸿蒙的开发。 并且只推送到了闭源仓库。
 
-### 🕹️ 项目状态
 
-#### 1. .NET运行时
-NativeAOT已适配，目前支持使用.NET为OpenHarmony系统开发原生二进制库(.so)，使用方式参考: [https://github.com/OpenHarmony-NET/OpenHarmony.NET.Runtime](https://github.com/OpenHarmony-NET/OpenHarmony.NET.Runtime)
+但是事与愿违，双方合作一再推迟，直到今年年前，多家外包公司通过b站和博客园联系到我，寻求Avalonia适配鸿蒙的合作，我才知道华为明面上继续与Avalonia谈合作，实际上背地里拿着Avalonia给的信息在招标平台上面向国内供应商招标。这部分信息我可以对我说的话负责，并掌握证据，联系我的公司提供的信息正是Avalonia提供给华为的信息，不过据说这在国内很常见，所以我们也不必过分纠结。
 
-#### 2. Avalonia
-目前可以将画面渲染出来，已支持GPU渲染。
-代码仓库: [https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia](https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia)
+虽然外包公司让我随便开出条件，帮助他们竞标；但是我本身就有工作，待遇什么的完全不需要找工作，Avalonia也完完全全是我的业余爱好。Avalonia本身远程办公和团队氛围吸引我，所以我并不需要一个外包公司的工作，也不需要冒这个险，所以我拒绝了这些外包公司的邀请。
 
-#### 3. Blazor.Hybrid
+直到昨天，Avalonia开发群有人发现在Boss直聘上，某外包公司在招聘《Avalonia框架工程师》，在于董彬确认后，了解到Avalonia适配的项目被某外包公司成功竞标。对此，经过多次的坏消息的铺垫下，基本是意料之中。
 
-已适配完成，欢迎大家体验。
-代码仓库: [https://github.com/OpenHarmony-NET/OpenHarmony.Blazor.Hybrid](https://github.com/OpenHarmony-NET/OpenHarmony.Blazor.Hybrid)
+所以OpenHarmony-NET组织下的所有项目，即今日起不再更新，已开发的内容也不会公开。其实也没必要公开，后续的内容等某外包公司以某某SIG组织的名义开源就行了。因为国家对开源项目有补贴，所以他们大概率也会开源。
 
-### 💬 交流和讨论
+最后，对于整件事情，我并没有后悔，也不需要网友们为我打抱不平，本身我不需要该项目为我提供收入(当然如果能提供收入更好)，希望使用或者参考我们的代码的企业遵循MIT协议，将我们的项目放到项目LICENSE中，肯定我们的付出
 
-如果有任何疑问和建议，请移步至[Discussions](https://github.com/orgs/OpenHarmony-NET/discussions)
+
