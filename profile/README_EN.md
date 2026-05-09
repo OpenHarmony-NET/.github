@@ -1,6 +1,17 @@
-![OpenHarmony-NET](../assets/Header.png)
-
 [简体中文](./README.md) | English
+
+### 2026/5/9 updated:
+﻿
+Huawei has the right to cooperate with any company. Where Huawei was in the wrong is that it leaked Avalonia’s materials to a third-party vendor. This directly harms Avalonia, not me personally, so I have no intention of holding anyone accountable on Avalonia’s behalf. When I said I have evidence, it was only to avoid unnecessary arguments—not that I intend to accuse Huawei. We can end this part of the discussion here.
+﻿
+I have no desire to morally pressure Huawei into cooperating with Avalonia. I simply want to state that this project has stopped updates. After all, the Avalonia HarmonyOS project still has hundreds of followers.
+﻿
+Since the project was open-source from the very beginning, I have no grounds to object to anyone using it. To put it plainly, even if someone uses the code exactly as-is for profit, I ought not to complain. Therefore, I am only archiving the project, not deleting the repository and abandoning it entirely. I also haven’t removed any of my previous analysis blog posts, so this is by no means an overreaction to open-source collaboration.
+﻿
+At the same time, I have every right to discontinue development. I won’t let third-party companies **profit off my open-source project by making money from Huawei without doing any real work themselves**. Protecting my own rights and interests also serves to safeguard Huawei’s interests.
+
+
+### Original text
 
 Hello everyone, I'm CeSun(BuBu).
 I have an announcement to make: the Avalonia and .NET projects for HarmonyOS have officially stopped updates and been archived.
